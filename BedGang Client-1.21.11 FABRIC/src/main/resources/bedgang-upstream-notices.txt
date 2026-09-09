@@ -1,0 +1,15 @@
+BedGang — t4's edition
+
+Edition branding: t4 / BedGang.
+This is a customized distribution, not a claim that t4 authored its upstream code.
+
+Meteor Client: Copyright (c) Meteor Development.
+Original distribution authors: MineGame159, squidoodly, seasnail.
+Upstream source: https://github.com/MeteorDevelopment/meteor-client
+Meteor's GPL-3.0 license and source notices are retained.
+
+Phobos and Impact behavior/interface adaptations are based on the source
+archives supplied for this project. Their origins are documented in the
+included PHOBOS-PORT-REPORT.md, PHOBOS-CLASSIC-README.md and
+IMPACT-INTEGRATION-REPORT.md. Other individual source attributions, dependency
+licenses, package names and functional upstream links are retained.

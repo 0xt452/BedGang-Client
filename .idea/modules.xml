@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BedGang-t4-1.21.11-SOURCE.iml" filepath="$PROJECT_DIR$/.idea/BedGang-t4-1.21.11-SOURCE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/meteor-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/meteor-client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/meteor-client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/meteor-client.test.iml" />
+    </modules>
+  </component>
+</project>
