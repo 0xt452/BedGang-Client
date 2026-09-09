@@ -17,7 +17,7 @@ The normal remapped client JAR will be named bedgang-t4-…jar in build/libs. Us
 Right Alt opens Impact. Your existing Meteor/Phobos GUI binding continues to work. HUDs keep their prior toggle behavior and Impact still defers to Phobos HUD by default. If an existing configuration has a custom title or splash/credit display disabled, change those options in Config. Reset the relevant watermark/default setting if you previously saved your own text and want the new default.
 
 
-##Skipped Modules From Impact, and Phobos
+## Skipped Modules From Impact, and Phobos
 
 “Adapted” can be a deliberately smaller modern implementation; read the details. “Shared entry” means broad feature availability through the existing host, not parity with old bypass modes or settings. “Not ported” distinguishes outstanding work and obsolete dependencies from an assertion that a feature is impossible. Nested mode helper classes are addressed after the table.
 
