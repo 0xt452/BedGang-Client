@@ -1,9 +1,7 @@
-# BedGang — t4's edition
+# BedGang Client t4's edition
 
 A customized Meteor 1.21.11 distribution with the existing Phobos and Impact ports. Upstream code remains credited in LICENSE, UPSTREAM-README.md, source notices, and src/main/resources/bedgang-upstream-notices.txt. The t4 author entry identifies this custom edition, not authorship of all upstream code.
 
-
-The Meteor, Phobos and Impact GUI names, category IDs, module IDs, Java packages, resource namespaces and config paths remain compatible with the prior build. Functional dependency coordinates, API URLs and historical copyright/attribution references retain their real names. Original personal attribution comments are preserved rather than relabeled as t4's work. The main README now describes BedGang; the original README is kept as UPSTREAM-README.md.
 
 ## Build
 
