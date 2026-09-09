@@ -2,7 +2,7 @@
 
 A customized Meteor 1.21.11 distribution with the existing Phobos and Impact ports. t4 identifies this custom edition, not authorship of all upstream code.
 
-CLient contains all of Meteors modules with the addition of a few rare phobos ports, and the addition of the Impact 3.0 client with a seperate GUI.
+Client contains all of Meteors modules with the addition of a few rare phobos ports, and the addition of the Impact 3.0 client with a seperate GUI.
 
 ## Build
 
