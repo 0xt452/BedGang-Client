@@ -19,7 +19,11 @@ Right Alt opens Impact. Your existing Meteor/Phobos GUI binding continues to wor
 
 ## Skipped Modules From Impact, and Phobos
 
-“Adapted” can be a deliberately smaller modern implementation; read the details. “Shared entry” means broad feature availability through the existing host, not parity with old bypass modes or settings. “Not ported” distinguishes outstanding work and obsolete dependencies from an assertion that a feature is impossible. Nested mode helper classes are addressed after the table.
+“Adapted” can be a deliberately smaller modern implementation; read the details. 
+
+“Shared entry” means broad feature availability through the existing host, not parity with old bypass modes or settings. 
+
+“Not ported” distinguishes outstanding work and obsolete dependencies from an assertion that a feature is impossible. Nested mode helper classes are addressed after the table.
 
 | Original Impact module | Outcome | Details |
 |---|---|---|
